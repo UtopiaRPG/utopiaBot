@@ -1,0 +1,10 @@
+{
+  "name": "utopiaBot",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "install": "^0.8.7",
+    "npm": "^4.3.0"
+  }
+}
