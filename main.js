@@ -5,4 +5,4 @@ var config= require("./config.json");
 
 "fin temporaire"
 console.log(config)
-bot.run(config.token)
+bot.run(config)
