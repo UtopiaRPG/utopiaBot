@@ -1,0 +1,11 @@
+{
+  "token": "token for bot on discord",
+  "name": "username of bot user on forum",
+  "password": "password of bot user on forum",
+  "rolesID":{
+    "verify": "id of role to set at user in valadation"
+  },
+  "forum":{
+    "link": "http://www.never-utopia.com"
+  }
+}
