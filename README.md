@@ -26,7 +26,7 @@ Pour lancer le projet, utilisez la commande :
 
 This is a bot to synchronyse username user of Discord and a forum on ForumActif plateform.
 
-### Côté Discord
+### Discord Side
 Add bot to Discord server.
 Don't allow to rename for user.
 Restrict write for non validate member. Give a way to distinguish validate username and no-validate username
