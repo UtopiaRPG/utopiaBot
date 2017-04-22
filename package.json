@@ -1,10 +1,12 @@
 {
   "name": "utopiaBot",
-  "version": "0.0.1",
-  "private": true,
+  "version": "1.0.0",
+  "private": false,
   "dependencies": {
+    "chai": "^3.5.0",
     "discord.js": "^11.0.0",
     "install": "^0.8.7",
+    "mocha": "^3.2.0",
     "npm": "^4.3.0"
   }
 }
