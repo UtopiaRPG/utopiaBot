@@ -2,6 +2,10 @@
   "name": "utopiaBot",
   "version": "1.0.0",
   "private": false,
+   "scripts" : {
+     "start" : "node server.js",
+     "test" : "./node_modules/mocha/bin/mocha  test/bot/ChromeCtrlTest.js --timeout 50000 --exit"
+  },
   "dependencies": {
     "chai": "^3.5.0",
     "discord.js": "^11.0.0",
