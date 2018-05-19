@@ -2,11 +2,12 @@
   "name": "utopiaBot",
   "version": "1.0.0",
   "private": false,
-   "scripts" : {
-     "start" : "node server.js",
-     "test" : "./node_modules/mocha/bin/mocha  test/bot/ChromeCtrlTest.js --timeout 50000 --exit"
+  "scripts": {
+    "start": "node server.js",
+    "test": "./node_modules/mocha/bin/mocha  test/**.js --timeout 50000 --exit"
   },
   "dependencies": {
+    "caretaker": "github:UtopiaRPG/caretaker",
     "chai": "^3.5.0",
     "discord.js": "^11.0.0",
     "erlpack": "^0.1.2",
