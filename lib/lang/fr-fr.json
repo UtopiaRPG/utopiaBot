@@ -4,7 +4,8 @@
     "tokenSend": " un token vient de vous être envoyer par mp sur le forum.",
     "unknowCommand": " commande inconnue. Tapez !UB help pour plus d'information",
     "validation": " vous êtes maintenant un membre validé",
-    "error": {
-      "sendMP": "Erreur d'identification, aucun MP n'a pu être envoyé sur le forum. Vérifiez le pseudo ou contactez un modérateur"
+    "mp": {
+      "title": "Discord: validation",
+      "sendError": "Erreur d'identification, aucun MP n'a pu être envoyé sur le forum. Vérifiez le pseudo ou contactez un modérateur"
     }
 }

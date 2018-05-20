@@ -3,5 +3,9 @@
     "pseudoNeeded": "",
     "tokenSend": "",
     "unknowCommand": "",
-    "validation":""
+    "validation":"",
+    "mp": {
+      "title": "",
+      "sendError": ""
+    }
 }
