@@ -3,5 +3,9 @@
     "pseudoNeeded": " token invalide. Si vous n'avez pas eu le mp renvoyez : !UB identifie-moi-comme pseudoSurLeForum",
     "tokenSend": " un token vient de vous être envoyer par mp sur le forum.",
     "unknowCommand": " commande inconnue. Tapez !UB help pour plus d'information",
-    "validation": " vous êtes maintenant un membre validé"
+    "validation": " vous êtes maintenant un membre validé",
+    "mp": {
+      "title": "Discord: validation",
+      "sendError": "Erreur d'identification, aucun MP n'a pu être envoyé sur le forum. Vérifiez le pseudo ou contactez un modérateur"
+    }
 }

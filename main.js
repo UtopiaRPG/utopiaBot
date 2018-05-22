@@ -1,8 +1,8 @@
-const bot=require("./lib/bot/bot.js");
-
-"temporaire"
+const bot=require("./lib/bot.js");
+const Discord = require('discord.js');
 var config= require("./config.json");
 
-"fin temporaire"
-console.log(config)
-bot.run(config)
+const discord = new Discord.Client({autoReconnect:true});
+discord.login(config.token);
+
+new bot(config, discord);

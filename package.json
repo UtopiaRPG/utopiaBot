@@ -2,11 +2,22 @@
   "name": "utopiaBot",
   "version": "1.0.0",
   "private": false,
+  "scripts": {
+    "start": "node main.js",
+    "test": "./node_modules/mocha/bin/mocha  test/**.js --timeout 50000 --exit"
+  },
   "dependencies": {
-    "chai": "^3.5.0",
+    "caretaker": "github:UtopiaRPG/caretaker",
     "discord.js": "^11.0.0",
-    "install": "^0.8.7",
-    "mocha": "^3.2.0",
-    "npm": "^4.3.0"
+    "erlpack": "^0.1.2",
+    "node-opus": "^0.3.0",
+    "opusscript": "0.0.6",
+    "puppeteer": "^1.4.0",
+    "uws": "^10.148.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.5.3",
+    "sinon": "^5.0.7"
   }
 }
