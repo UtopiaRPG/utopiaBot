@@ -1,5 +1,6 @@
 config.json
 lib/bot/botConfig.json
+package-lock.json
 
 # Logs
 logs

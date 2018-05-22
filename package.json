@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": false,
   "scripts": {
-    "start": "node server.js",
+    "start": "node main.js",
     "test": "./node_modules/mocha/bin/mocha  test/**.js --timeout 50000 --exit"
   },
   "dependencies": {
