@@ -1,11 +1,18 @@
 {
+  "prefix": "prefix for bot commands, ie: !UB ",
+  "lang": "bot language, using the fr-fr model",
   "token": "token for bot on discord",
   "name": "username of bot user on forum",
   "password": "password of bot user on forum",
   "rolesID":{
-    "verify": "id of role to set at user in valadation"
+    "verify": "id of role to set at user in validation"
   },
   "forum":{
     "link": "http://www.never-utopia.com"
   }
+  "clientDatabase": "client of database, ie: mysql",
+  "hostDatabase": "ip or link to the database",
+  "userDatabase": "database user",
+  "passwordDatabase": "password of your database server",
+  "database": "database name",
 }
