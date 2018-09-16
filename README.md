@@ -4,7 +4,9 @@
 ## Français
 
 Ce projet fournit un bot pour synchroniser les pseudo des utilisateurs sur un
-Discord et sur un forum de la plateforme ForumActif.
+Discord et sur un forum de la plateforme ForumActif. Pour ajouter le bot sur 
+votre discord sans l'héberger,
+[cliquez ici](https://discordapp.com/oauth2/authorize?client_id=286948795898527744&scope=bot)
 
 ## Requis
 
@@ -27,7 +29,10 @@ Pour lancer le projet, utilisez la commande :
 
 ## English
 
-This is a bot to synchronyse username user of Discord and a forum on ForumActif plateform.
+This is a bot to synchronyse username user of Discord and a forum 
+on ForumActif plateform.For add this bot whitout host him,
+[hit here](https://discordapp.com/oauth2/authorize?client_id=286948795898527744&scope=bot)
+But the translation is not fully implemented.
 
 
 ## Requirement
