@@ -1,12 +1,19 @@
 {
-    "invalidToken": " token invalide. Avez-vous fait : !UB identifie-moi-comme pseudoSurLeForum",
-    "pseudoNeeded": " token invalide. Si vous n'avez pas eu le mp renvoyez : !UB identifie-moi-comme pseudoSurLeForum",
-    "tokenNeeded": "Vous n'avez pas envoyé votre token.",
-    "tokenSend": " un token vient de vous être envoyer par mp sur le forum.",
-    "unknowCommand": " commande inconnue. Tapez !UB help pour plus d'information",
-    "validation": " vous êtes maintenant un membre validé",
-    "mp": {
-      "title": "Discord: validation",
-      "sendError": "Erreur d'identification, aucun MP n'a pu être envoyé sur le forum. Vérifiez le pseudo ou contactez un modérateur"
+  "invalidToken": " token invalide. Avez-vous fait : !UB identifie-moi-comme pseudoSurLeForum",
+  "errorDuringValidation": "Une erreur est survenu durant votre validation",
+  "profilNumberNeeded": "token invalide. Si vous n'avez pas eu le mp renvoyez : !UB link numeroProfilSurLeForum",
+  "tokenNeeded": "Vous n'avez pas envoyé votre token.",
+  "tokenSend": "Ce token est lié à votre numéro de profil. Veuillez l'ajouter dans votre profil(par exemple, dans le champs information), puis tapez `!UB validate`",
+  "unknowCommand": " commande inconnue. Tapez !UB help pour plus d'information",
+  "validation": " vous êtes maintenant un membre validé",
+  "mp": {
+    "title": "Discord: validation",
+    "sendError": "Erreur d'identification, aucun MP n'a pu être envoyé sur le forum. Vérifiez le pseudo ou contactez un modérateur"
+  },
+  "commands": {
+    "description": {
+      "link": "Donnez votre numero de profil (aller sur votre profil et copier le numéro ??? dans l'url : http://forum.com/u???).",
+      "validate": "Permet de vérifier le token sur le profil du forum et de devenir un membre validé."
     }
+  }
 }
