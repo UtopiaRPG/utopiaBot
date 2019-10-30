@@ -1,7 +1,7 @@
 {
-  "invalidToken": " token invalide. Avez-vous fait : !UB identifie-moi-comme pseudoSurLeForum",
+  "invalidToken": " token invalide. Avez-vous fait : `!UB link numeroProfilSurLeForum`",
   "errorDuringValidation": "Une erreur est survenu durant votre validation",
-  "profilNumberNeeded": "token invalide. Si vous n'avez pas eu le mp renvoyez : !UB link numeroProfilSurLeForum",
+  "profilNumberNeeded": "token invalide. Si vous n'avez pas eu le mp renvoyez : `!UB link numeroProfilSurLeForum`",
   "tokenNeeded": "Vous n'avez pas envoyé votre token.",
   "tokenSend": "Ce token est lié à votre numéro de profil. Veuillez l'ajouter dans votre profil(par exemple, dans le champs information), puis tapez `!UB validate`",
   "unknowCommand": " commande inconnue. Tapez !UB help pour plus d'information",
